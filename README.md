@@ -55,5 +55,4 @@ Note: These findings describe the 250 records displayed in the dashboard. Valida
 - Refresh the dashboard when new passenger feedback becomes available.
 💡 Conclusion
 This project demonstrates how Excel, Power BI, and Python can be used together to analyze passenger feedback and communicate findings visually. The dashboard highlights differences across travel classes, customer groups, seat-comfort ratings, and flight-distance categories, helping identify areas for further investigation and service improvement.
-👤 Author
-Yash Patil
+
